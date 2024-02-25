@@ -6,7 +6,7 @@ Com o objetivo de praticar HTML e CSS
 HTML e CSS puro
 Desenvolvido com o uso de Mobile First
 
-###Segue abaixo Fotos do Projeto!
+###Segue abaixo Imagens do Projeto!
 
 
 ## Para aparelhos com resolução abaixo de 768px (Smartphone e Tablet)
